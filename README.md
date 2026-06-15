@@ -37,7 +37,7 @@
 1. **可运行的源代码** — 克隆后按步骤即可启动 Demo
 2. **演示视频** — 完整演示从输入到输出的全过程：
 
-   <video src="demo_video.mp4" controls width="100%"></video>
+   <video src="https://github.com/ywj-code/recruiter/raw/main/demo_video.mp4" controls width="100%"></video>
 3. **设计文档（本 README）** — 包含架构图、Prompt 设计思路、难点与解决方案
 
 ---
