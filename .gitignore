@@ -8,14 +8,8 @@ __pycache__/
 dist/
 build/
 
-# EasyOCR 模型文件（体积大，需用户自行下载）
-models/easyocr/
-
 # 数据库（运行后自动生成）
 data/
-
-# 演示视频（体积大）
-demo_video.mp4
 
 # IDE
 .idea/
